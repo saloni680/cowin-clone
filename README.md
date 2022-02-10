@@ -4,4 +4,4 @@ cowin-login
 
 
 register for vaccination
-https://jsfiddle.net/saloni001/05Lhne9x/5/
+https://jsfiddle.net/saloni001/t76jLxfu/5/
